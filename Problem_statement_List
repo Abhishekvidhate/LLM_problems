@@ -1,0 +1,9 @@
+** INITAL LIST OF PROBLEM STATEMENTS
+1. doctor/prescriber for common illeness ( kudos --> mudit gaur ) 
+  - a chat-bot like assistant which take prompt from user as input , generates text prescription on the inputed illness 
+  - useful for hospitals as commo & basic remedies can be cured easy and simply with no doctor inventions, doctors can focus on  major illness
+  - it can be a good benchmark for doctors/med students as the illness our model can't digonasis with/above HLP(here docs,med experts) 
+    and provide proper procedure ( actions to take ,like take meds or visit doc based on severity,etc)
+
+baseline model --
+
