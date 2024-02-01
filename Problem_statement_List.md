@@ -59,6 +59,9 @@ researched more = difference between ATVM & OCR kiosks machines
 
  my chat with Bing Chat GPT :- [Chat](https://github.com/Abhishekvidhate/LLM_problems/blob/main/chat-ATVM-OCRkiosks.docx) 
 
+chat on intial product , basically a chat-bot (**using LLM for NLP**) for improving and simplifying UE of ATVM :-   [Chat](https://github.com/Abhishekvidhate/LLM_problems/blob/main/initial-product-chat.docx) 
+
+
 ### code base of ATVM machine 
 
 ## 3. fruits vending machine , on roads , bus stands , train stands , etc 
