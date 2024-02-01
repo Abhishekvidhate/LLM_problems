@@ -1,4 +1,4 @@
-<font size=4>INITAL LIST OF PROBLEM STATEMENTS</font>
+<font size=8>INITAL LIST OF PROBLEM STATEMENTS</font>
 1. doctor/prescriber for common illeness ( kudos --> mudit gaur ) 
   - a chat-bot like assistant which take prompt from user as input , generates text prescription on the inputed illness 
   - useful for hospitals as commo & basic remedies can be cured easy and simply with no doctor inventions, doctors can focus on  major illness
