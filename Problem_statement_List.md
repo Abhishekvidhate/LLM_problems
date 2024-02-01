@@ -67,11 +67,12 @@ info on CODE-BASE of ATVM(software & hardware info) : [thinvent.in](https://www.
 
 <details>
   <summary>
-    how to integrate chat-bot with ATVM
+    **how to integrate chat-bot with ATVM**
   </summary>
-  Copilot
-Integrating your product with Automatic Ticket Vending Machines (ATVMs) involves several steps to ensure seamless functionality. Here’s a guide on how to proceed:
-
+    
+  **Copilot**
+Integrating your product with Automatic Ticket Vending Machines (ATVMs) involves 
+several steps to ensure seamless functionality. Here’s a guide on how to proceed:
 Understand ATVM Architecture:
 Familiarize yourself with the existing ATVM system architecture.
 Learn about the hardware components, communication protocols, and software interfaces used by ATVMs.
@@ -112,9 +113,7 @@ Documentation and Support:
 Create detailed documentation for maintenance and troubleshooting.
 Provide customer support for users interacting with your integrated product.
 Remember that integrating with ATVMs requires thorough understanding, collaboration, and adherence to standards. Best of luck with your product integration! 🚂🎫✨
-
 Learn more
-
 1.thinvent.in
 2.lipi.in
 3.addsofttech.com
