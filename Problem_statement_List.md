@@ -1,6 +1,6 @@
 # <font color = blue>INITAL LIST OF PROBLEM STATEMENTS </font>
 
-1. doctor/prescriber for common illeness ( kudos --> mudit gaur ) 
+## 1. doctor/prescriber for common illeness ( kudos --> mudit gaur ) 
   - a chat-bot like assistant which take prompt from user as input , generates text prescription on the inputed illness 
   - useful for hospitals as commo & basic remedies can be cured easy and simply with no doctor inventions, doctors can focus on  major illness
   - it can be a good benchmark for doctors/med students as the illness our model can't digonasis with/above HLP(here docs,med experts) 
@@ -12,8 +12,8 @@
  - chat-bot don't have capacity to check for tongue , breathing patterns ( this features are only for common cold , think for a number of diseases we will
    have to add many features to our chatbot also add camera , etc to chat-bot i.e basically too complex )
  - our model must have high recall as false truths can fuck our product 
-
-2. train ticket machine( kudos --> dyanesh temgire )
+<!-- Empty line above -->
+## 2. train ticket machine( kudos --> dyanesh temgire )
   - machine is too complex and even dyanesh fell it was stupid machine, it needs human supervisioin (mostly TC) provide ticket ,
     basically this machine is too complex for user
   - aksh hinted it can be a OCR machine ( he told it is present at train stations , bus stations , police stations) , this name can be false , as i don't 
@@ -32,7 +32,7 @@ PROBLEMS RELATED TO TICKET , FOOD , TIMING , INEFFICIENCY , LESS STAFF , ETC
     COMPARE PROBLEMS ACCORDING TO DYNANESH TO PROBLEMS FACED BY PAPPA , YOUNGSTERS VS OLD PEOPLE
 ****
 
-  - refer recorded video of dynanesh , main points of video
+### - refer recorded video of dynanesh , main points of video
   
      1. i asked him , "what is the problem statement , i mean how did you know this is the problem , i mean it would had clicked in your mind that yes this is 
         problem and it troubles some = kind of people ?
