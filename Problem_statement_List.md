@@ -58,8 +58,9 @@ researched more = difference between ATVM & OCR kiosks machines
   ( aksh helped me with name of OCR machine ,  but he & i both were not sure of machine)
 
  my chat with Bing Chat GPT :- [Chat](https://github.com/Abhishekvidhate/LLM_problems/blob/main/chat-ATVM-OCRkiosks.docx) 
-                                                         
 
-3. fruits vending machine , on roads , bus stands , train stands , etc 
+### code base of ATVM machine 
 
-4.
+## 3. fruits vending machine , on roads , bus stands , train stands , etc 
+
+## 4.
